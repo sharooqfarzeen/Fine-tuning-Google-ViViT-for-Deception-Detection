@@ -1,10 +1,5 @@
 # Fine-tuning Google Video Vision Transformer (ViViT) using Real-life Deception Detection Dataset
 
-## Use-cases
-
-1. Job Interviews
-2. Criminal Proceedings, Trials
-
 ## About
 
 Dataset used - [Real-life Deception Detection Dataset](https://public.websites.umich.edu/~zmohamed/resources.html)
@@ -12,6 +7,11 @@ Dataset used - [Real-life Deception Detection Dataset](https://public.websites.u
 Model Used - [ViViT (Video Vision Transformer) - Video Classifier](https://huggingface.co/google/vivit-b-16x2)
 
 Research Paper for the dataset - [Deception Detection using Real-life Trial Data](https://web.eecs.umich.edu/~zmohamed/PDFs/Trial.ICMI.pdf)
+
+## Use-cases
+
+1. Assessing job interview candidates
+2. Criminal proceedings, trials
 
 # Using the model
 
